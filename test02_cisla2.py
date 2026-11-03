@@ -1,9 +1,6 @@
 #Phase one
     #multiplication and even/odd check
 
-import numbers
-
-
 a = (5)
 b = (6)
 
